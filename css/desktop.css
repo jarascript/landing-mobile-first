@@ -1,0 +1,23 @@
+.header__title-container h1 {
+    font-size: 4rem;
+}
+
+.product-detail__title h2{
+    font-size: 3rem;
+}
+
+.product-detail__cards-container {
+    flex-basis: 35%;
+}
+
+.bitcoin-img-container {
+    background-attachment: fixed;
+}
+
+.bitcoin-img-container h2 {
+    font-size: 6rem;
+}
+
+.plans__title h2{
+    font-size: 3rem;
+}
